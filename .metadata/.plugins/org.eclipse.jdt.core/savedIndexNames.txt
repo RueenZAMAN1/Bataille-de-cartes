@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/Users/melinna/eclipse-workspace/projet.bataille/.metadata/.plugins/org.eclipse.jdt.core
+2674095423.index
+3534916793.index
